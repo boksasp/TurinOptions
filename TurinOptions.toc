@@ -1,0 +1,5 @@
+## Interface: 20501
+## Title: TurinOptions
+## Notes: Turin's Options panel
+embeds.xml
+TurinOptions.lua

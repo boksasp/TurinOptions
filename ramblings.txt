@@ -1,0 +1,9 @@
+nameplateShowFriendlyGuardians  0
+nameplateShowFriendlyMinions	0
+nameplateShowFriendlyNPCs	    0
+nameplateShowFriendlyPets	    0
+nameplateShowFriendlyTotems	    0
+nameplateShowFriends            0 --done
+nameplateShowOnlyNames          0
+
+https://wowpedia.fandom.com/wiki/Console_variables
